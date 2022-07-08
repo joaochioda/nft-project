@@ -32,5 +32,6 @@ In the gifs below you can see a little how it works:
 ![stack-ticket](https://user-images.githubusercontent.com/47106171/178067887-ebaee86f-bec5-4dcb-b167-815812489f76.gif)
 
 ### Here you can see all the animals you can get ###
-![all-animals2](https://user-images.githubusercontent.com/47106171/178071377-87e50f52-1fd6-47a1-9102-4ca1c270a90c.gif)
+![all-animals4](https://user-images.githubusercontent.com/47106171/178071672-9197b7c5-9314-4550-a228-2dd39a0a39e5.gif)
+
 
