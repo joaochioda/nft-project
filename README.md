@@ -1,6 +1,6 @@
 # nft-project
 
-This project was a personal project where I made an nft application from 0, all the code is in a private repository
+This project was a personal project where I made a nft application from 0, all the code is in a private repository
 
 ## Technologies ##
 
@@ -16,7 +16,7 @@ Pay user when withdraw - (lambda function aws)
 
 ## Demonstration ##
 
-In the gifs below you can see a little of how it works:
+In the gifs below you can see a little how it works:
 
 ### Authentication is madee by metamask (wallet) ###
 ![metamask](https://user-images.githubusercontent.com/47106171/178067865-d4042fe5-bd74-4880-873c-63b496ba62b0.gif)
