@@ -1,6 +1,6 @@
 # nft-project
 
-This project was a personal project where I made a nft application from 0, all the code is in a private repository
+This project was a personal project where I made an nft application from 0, all the code is in a private repository
 
 ## Technologies ##
 
